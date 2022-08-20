@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6653551b.css",
+    "main.js": "/static/js/main.5ceacd6f.js",
+    "static/media/background_chat_program.jpg": "/static/media/background_chat_program.79f6cbcad3377a731dd2.jpg",
+    "index.html": "/index.html",
+    "main.6653551b.css.map": "/static/css/main.6653551b.css.map",
+    "main.5ceacd6f.js.map": "/static/js/main.5ceacd6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6653551b.css",
+    "static/js/main.5ceacd6f.js"
+  ]
+}
