@@ -13,7 +13,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-https://talk-a-tive.herokuapp.com/
 
 ![](https://github.com/snehil-01/Lets-Talk-by-snehil/blob/main/screenshots/single-chat.png)
 ## Run Locally
